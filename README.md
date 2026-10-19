@@ -39,21 +39,3 @@ Backend Engineer with 4+ years of experience building APIs and backend services.
 
 ![Google Pub/Sub](https://img.shields.io/badge/Google%20Pub%2FSub-4285F4?logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-
-### 📊 GitHub Stats
-
-<p>
-  <img src="./profile-summary-card-output/github/0-profile-details.svg" alt="Profile details" />
-</p>
-<p>
-  <img height="180" src="./profile-summary-card-output/github/3-stats.svg" alt="GitHub Stats" />
-  <img height="180" src="./profile-summary-card-output/github/2-most-commit-language.svg" alt="Most commit language" />
-</p>
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhnashir/muhnashir/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhnashir/muhnashir/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/muhnashir/muhnashir/output/github-contribution-grid-snake.svg" />
-</picture>
